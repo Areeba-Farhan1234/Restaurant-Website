@@ -1,4 +1,4 @@
-# Restaurant Website
+# Restaurant Website 
 
 This is a **full-stack restaurant website** built with **React.js (Frontend)** and **Node.js/Express + MongoDB (Backend)**. The website allows users to browse menu items, view restaurant information, and make reservations.
 
