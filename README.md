@@ -53,9 +53,6 @@ zeeshi/
 ├─ vite.config.js
 └─ index.css
 
-go
-Copy code
-
 **Backend (`backend`)**  
 
 backend/
@@ -65,9 +62,6 @@ backend/
 ├─ server.js
 ├─ package.json
 └─ .env
-
-yaml
-Copy code
 
 ---
 
@@ -127,11 +121,5 @@ Replace your_mongodb_connection_string with your MongoDB URI.
 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy code
 
 ---
-
-If you want, I can also make a **GitHub-ready version with badges, live demo link, and nice visuals** that looks professional on your repo.  
-
-Do you want me to do that?
